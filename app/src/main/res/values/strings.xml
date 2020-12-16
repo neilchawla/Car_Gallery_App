@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Car Finder</string>
+    <string name="grid">gridView</string>
+    <string name="audi">Audi R8</string>
+    <string name="bmw">BMW i8</string>
+    <string name="dodge">Dodge Challenger Hellcat</string>
+    <string name="mclaren">McLaren P1</string>
+    <string name="merc">Mercedes G-Wagon</string>
+    <string name="porsche">Porsche 911</string>
+    <string name="audi_web">https://www.audiusa.com/us/web/en/models/r8/r8-coupe/2020/overview.html</string>
+
+    <string-array name="audi_dealers">
+        <item>Fletcher Jones Audi, 1523 W. North Ave, Chicago, IL 60642</item>
+        <item>Audi, N. Elston Ave, Chicago, IL 60642</item>
+        <item>Audi Morton Grove, 7000 Golf Rd, Morton Grove, IL 60053</item>
+    </string-array>
+
+    <string-array name="bmw_dealers">
+        <item>Perillo BMW, 1035 N. Clark St, Chicago, IL 60610</item>
+        <item>Fields BMW Northfield, 700 Frontage Rd, Northfield, IL 60093</item>
+        <item>Patrick BMW, 700 W Golf Rd, Schaumburg, IL 60173</item>
+    </string-array>
+
+    <string-array name="dodge_dealers">
+        <item>South Chicago Dodge, 7340 S Western Ave, Chicago, IL 60636</item>
+        <item>Marino Dodge, 5133 W Irving Park Rd, Chicago, IL 60641</item>
+        <item>Midway Dodge, 4747 S Pulaski Rd, Chicago, IL 60632</item>
+    </string-array>
+
+    <string-array name="mclaren_dealers">
+        <item>Chicago Motors Direct, 367 S Rohlwing Rd, Addison, IL 60101</item>
+        <item>McLaren Chicago, 645 W Randolph St, Chicago, IL 60661</item>
+        <item>North Ridge Auto Finance, 3698 Kansas St, Lake Station, IN 46405</item>
+    </string-array>
+
+    <string-array name="merc_dealers">
+        <item>Mercedes-Benz of Chicago, 1520 W North Ave, Chicago, IL 60642</item>
+        <item>Loeber Motors, 4255 W Touhy Ave, Lincolnwood, IL 60712</item>
+        <item>Mercedes-Benz of Orland Park, 8430 W 159th St, Orland Park, IL 60462</item>
+    </string-array>
+
+    <string-array name="porsche_dealers">
+        <item>Loeber Porsche, 4301 W Touhy Ave, Lincolnwood, IL 60712</item>
+        <item>Porsche Orland Park, 8760 W 159th St, Orland Park, IL 60462</item>
+        <item>Napleton Westmont Porsche, 201 E Ogden Ave, Westmont, IL 60559</item>
+    </string-array>
+</resources>
